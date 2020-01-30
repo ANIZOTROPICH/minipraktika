@@ -8,7 +8,7 @@ public class podschet {
             Scanner sc = new Scanner(System.in);
             System.out.println("Vvedite stroku");
             String stroka = sc.nextLine();
-            String[] Mas=stroka.split(" ");
-            System.out.println(Mas.length);
+            String[] Massive=stroka.split(" ");
+            System.out.println(Massive.length);
             
         }}
